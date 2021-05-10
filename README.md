@@ -6,12 +6,11 @@
 
 ### Links and Resources
 
-- [ci/cd](https://github.com/brendigler/api-server/actions)
+- [ci/cd](https://github.com/brendigler/cloud-server/actions)
 - [GUI-deployed server url](http://cloudservergui-env.eba-f2hj4qkp.us-west-2.elasticbeanstalk.com/)
-- [CLI-deployed server url](http://cloudservergui-env.eba-f2hj4qkp.us-west-2.elasticbeanstalk.com/)
-- [Pull Request](https://github.com/brendigler/api-server/pull/1)
+- [CLI-deployed server url](http://cloud-server-cli-env.eba-exhas8mc.us-west-2.elasticbeanstalk.com/)
+- [Pull Request](https://github.com/brendigler/cloud-server/pull/2)
 
-### Process
 
 <!-- ### Setup
 <!-- 
