@@ -11,6 +11,18 @@
 - [CLI-deployed server url](http://cloud-server-cli-env.eba-exhas8mc.us-west-2.elasticbeanstalk.com/)
 - [Pull Request](https://github.com/brendigler/cloud-server/pull/2)
 
+### Processes
+
+CLI app creation:
+
+- `eb init` - Initializes your folder as an Elastic Beanstalk application
+- Choose your region (`us-west-2`)
+- Choose [`Create new Application`]
+- Answer the other questions as appropriate
+- Choose `Node.js` at the correct version
+- `eb create my-environment-name` - Create an "environment" for your app to reside in
+- set up [Beanstalk Deploy](https://github.com/marketplace/actions/beanstalk-deploy) on gitHub actions
+- A-C-P as normal, changes will automatically deploy to EB
 
 <!-- ### Setup
 <!-- 
